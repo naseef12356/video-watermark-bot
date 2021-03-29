@@ -26,7 +26,7 @@ Hi, I am Video Watermark Adder Bot!
 
 __Note: I can only process one video at a time. As my server is Heroku, my health is not good. If you have any issues with Adding Watermark to a Video, then please Report at [Support Group](https://t.me/linux_repo).__
 
-Desgined by @AbirHasan2005
+Desgined by @Pro_Kallan_Robot
 """
 	PROGRESS = """
 Percentage : {0}%
